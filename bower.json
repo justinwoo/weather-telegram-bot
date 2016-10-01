@@ -1,0 +1,21 @@
+{
+  "name": "weather-telegram-bot",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^1.0.0",
+    "purescript-node-telegram-bot-api": "^0.1.0",
+    "purescript-xstream": "^0.4.2",
+    "purescript-aff": "^1.1.0",
+    "purescript-node-fs-aff": "^2.0.0",
+    "purescript-affjax": "^2.0.1",
+    "purescript-foreign": "^1.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0"
+  }
+}
