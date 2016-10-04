@@ -2,6 +2,8 @@
 
 A Telegram Bot example in Purescript using Yahoo's Weather API.
 
+See the post about this code [here](http://futurice.com/blog/making-a-weather-telegram-bot-in-purescript)
+
 ## Installation
 
 Install the dependencies and make sure you have `node`, `npm`, `bower`, `pulp` (`npm i -g pulp`), and `psc` (`npm i -g purescript`).
